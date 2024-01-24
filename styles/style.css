@@ -1,0 +1,59 @@
+html {
+    font-size: 10px;
+    font-family: Georgia, 'Tangerine';
+  }
+  
+  
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    color: #addb8b;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  h2 {
+    font-size: 60px;
+    text-align: center;
+    margin: 10;
+    color:blanchedalmond;
+    font-family: 'Tangerine', serif;
+  }
+  
+  h3 {
+    font-size: 20px;
+    color:darksalmon;
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color:aliceblue;
+  }
+  
+  
+  html {
+    background-color: #1c4c45;
+  }
+  
+  body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #2a7167;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  button {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin-top:20px;
+  }
